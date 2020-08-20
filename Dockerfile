@@ -3,4 +3,4 @@ From tomcat:8-jre8
 
 # Maintainer 
 MAINTAINER "lesliemekawe@yahoo.fr" 
-COPY webapp/target/devops.war /usr/local/tomcat/webapps
+COPY webapp/target/lesapp.war /usr/local/tomcat/webapps
